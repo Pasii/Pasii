@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Pasindu Deeyagahage
 - 👀 I’m interested in programming
-- 🌱 I’m currently working as a Senior Software Engineer
+- 🌱 I’m currently working as a Associate Technical Lead Software Engineer
 
 
 <!---
